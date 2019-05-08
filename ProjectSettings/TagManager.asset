@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - line
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - ControlCanvas
+  - BGCanvas
+  - FadingCanvas
+  - Particles
+  - Lines
+  - BGCity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BGCanvas
+    uniqueID: 4046186493
+    locked: 0
+  - name: BGCity
+    uniqueID: 3894049095
+    locked: 0
+  - name: Lines
+    uniqueID: 2017848703
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3557617667
+    locked: 0
+  - name: ControlCanvas
+    uniqueID: 3191422125
+    locked: 0
+  - name: FadingCanvas
+    uniqueID: 3460802543
+    locked: 0

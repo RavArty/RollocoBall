@@ -1,0 +1,14 @@
+lastUpgrade=00935
+proj.pluginVersion=0.9.35
+proj.AppId=164530816591
+and.BundleId=com.artykov.rollocoball
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e164530816591%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.artykov.rollocoball%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_best_score%22%3eCgkIz4y09uQEEAIQAQ%3c%2fstring%3e%0a%3c%2fresources%3e%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
+ios.ClientId=164530816591-4j1br637180qg9d39jj7asnoio6ca7is.apps.googleusercontent.com
+ios.BundleId=com.artykov.rollocoball
+ios.ResourceData=%23define+CLIENT_ID+%40%22164530816591-4j1br637180qg9d39jj7asnoio6ca7is.apps.googleusercontent.com%22%0a%23define+BUNDLE_ID+%40%22com.artykov.rollocoball%22%0a%23define+ACH_TEST1+%40%22CgkIz4y09uQEEAIQCA%22%0a%23define+ACH_TEST2+%40%22CgkIz4y09uQEEAIQCQ%22%0a%23define+ACH_TEST3+%40%22CgkIz4y09uQEEAIQCg%22%0a%23define+ACH_TEST4+%40%22CgkIz4y09uQEEAIQCw%22%0a%23define+ACH_TEST5+%40%22CgkIz4y09uQEEAIQDA%22%0a%23define+LEAD_BEST_SCORE+%40%22CgkIz4y09uQEEAIQAQ%22%0a
+ios.SetupDone=true
