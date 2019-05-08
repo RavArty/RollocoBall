@@ -3,6 +3,10 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+
+# Never ignore Asset meta data
+!/[Aa]ssets/**/*.meta
+
 #Assets/AssetStoreTools*
 
 # Visual Studio cache directory
