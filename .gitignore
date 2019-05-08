@@ -1,6 +1,6 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 
-/[Ll]ibrary/
+#/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
