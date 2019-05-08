@@ -8,7 +8,7 @@
 /[Ll]ogs/
 
 #Include Sprites Folder
-!/Assets/Sprites
+!Assets/Sprites
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
