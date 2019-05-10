@@ -1,5 +1,5 @@
 # RollocoBall
-2nd game on Unity3D Engine, simple one touch game was inspired by Roller coasters
+Second game on Unity3D Engine, simple one touch game was inspired by Roller coasters
 
 ![alt text](RollocoBallPic1.png)
 
