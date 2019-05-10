@@ -9,7 +9,7 @@ Youtube - https://www.youtube.com/watch?v=3UbeWYjb57s&t=9s
 IOS - https://goo.gl/61M2VV
 Android - https://goo.gl/mZ0ZaY
 
-## Getting Started
+## History
 
 This is my second project on Unity Engine. We've created this game alogn with my brother [AnvarArt] (https://github.com/AnvarArt).
 This project was a result of my first trip to the USA. We were amused that there was a Roller coaster in each city we've visited (NY - Las Vegas - Los Angeles). And as a true developer, I wanted to reflect my feelings through my work. That's how this game was born.
